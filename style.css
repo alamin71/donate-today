@@ -10,7 +10,7 @@ body{
     text-align: center;
     
 }
-h1{
+.text{
 color:white;
 }
 #donate-button{
@@ -20,4 +20,6 @@ color:white;
     border-radius: 5px;
     
 }
-]
+.donate-section{
+    text-align: center;
+}
