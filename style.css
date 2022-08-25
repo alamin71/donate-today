@@ -23,3 +23,21 @@ color:white;
 .donate-section{
     text-align: center;
 }
+.donate-border{
+border: 2px solid green;
+}
+.donate a{
+    padding: 250px 40px;
+}
+.donate li{
+    list-style: none;
+    display: inline-block;
+    margin: 10px 10px;
+    padding: 20px 50px;
+}
+.donate-tk ul li a{
+align-items: center;
+padding: 20px 10px;
+text-decoration: none;
+}
+
