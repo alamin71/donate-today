@@ -8,7 +8,6 @@ body{
     margin-left: 100px;
     padding: 180px 200px;
     text-align: center;
-    
 }
 .top-p{
     color: aqua;
@@ -19,8 +18,11 @@ color:white;
 #donate-button{
     text-decoration: none;
     background-color:orange ;
-    padding: 10px 40px;
-    border-radius: 5px;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.hr-style{
+    width: 45%;
 }
 #donate-button2{
     text-decoration: none;
@@ -32,18 +34,29 @@ color:white;
     text-align: center;
 }
 .donate-border{
-    background-color: rgb(228, 160, 181);
-    background-size: 136px;
-border: 2px solid green;
-}
-.donate li a{
-    padding: 50px 30px;
-}
-.donate li {
+    width: 100px;
+    background-color: rgb(195, 243, 243);
     list-style: none;
     display: inline-block;
     margin: 10px 10px;
-    padding: 20px 20px;
+    padding: 30px 20px;
+    border: 2px solid green;   
+
+}
+.donate a:hover{
+    width: 100px;
+    background-color: aqua;
+    list-style: none;
+    display: inline-block;
+    margin: 10px 10px;
+    padding: 30px 20px;
+    border: 2px solid green;
+}
+.donate li{
+    list-style: none;
+    display: inline-block;
+    margin: 10px 10px;
+    
 }
 .donate-tk ul li a{
 align-items: center;
